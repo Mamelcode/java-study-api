@@ -7,7 +7,7 @@
 		"mp" : 10
 	},
 	
-	"friends" : [
+	"friendly" : [
 		{"city" : "고드릭", "pts" : 100},
 		{"city" : "랜슬롯", "pts" : 74},
 		{"city" : "히데요시", "pts" : 22}
