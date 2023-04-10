@@ -1,0 +1,8 @@
+[
+	{"id" : "wp001", "name" : "단검", "price" : 1000, "repairable" : false},
+	{"id" : "wp002", "name" : "장검", "price" : 2000, "repairable" : true},
+	{"id" : "wp003", "name" : "대검", "price" : 3000, "repairable" : false},
+	{"id" : "wp004", "name" : "창", "price" : 4000, "repairable" : true},
+	{"id" : "wp005", "name" : "장궁", "price" : 5000, "repairable" : false},
+	{"id" : "wp006", "name" : "단궁", "price" : 6000, "repairable" : true}
+]
